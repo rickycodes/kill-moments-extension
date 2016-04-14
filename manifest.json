@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "kill-twitter-moments",
-  "description": "",
+  "description": "One liner chrome extension to set display style property of twitter moments to 'none'",
   "version": "1.0",
   "content_scripts": [
     {
