@@ -1,1 +1,1 @@
-document.querySelector('li.moments').style.display = 'none'
+document.querySelector('.moments, .js-moments-tab, .gdi-twitter-moments').style.display = 'none'
